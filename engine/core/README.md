@@ -18,7 +18,7 @@ Pentaho Reporting is developed by Thomas Morgner, Cedric Pronzato and others.
 
 The official web-page for Pentaho Reporting is:
 
-    http://reporting.pentaho.org/
+    https://community.hitachivantara.com/docs/DOC-1009856
 
 Additional news and development updates are available via Thomas Morgner's
 Blog.
@@ -199,7 +199,7 @@ information that you think is relevant.
 Pentaho offers commercial support for Pentaho Reporting with guaranteed
 response times. Please see
 
-  http://www.pentaho.com/products/reporting/
+  https://www.hitachivantara.com/en-us/services/customer-support/pentaho-technical-support.html
 
 for more details.
 

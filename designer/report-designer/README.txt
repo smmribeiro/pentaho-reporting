@@ -166,7 +166,7 @@ Access to our JIRA system is free for everyone.
 Pentaho offers commercial support for Pentaho Reporting with guaranteed
 response times. Please see
 
-  http://www.pentaho.com/products/reporting/
+  https://www.hitachivantara.com/en-us/services/customer-support/pentaho-technical-support.html
 
 for more details.
 
